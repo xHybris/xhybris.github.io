@@ -851,8 +851,7 @@ body.loaded .overlay_effect:after{
 	        transition: all .3s ease;
 }
 .shane_tm_button2 a:hover{
-	color: #000000;
-
+	color: #000;
 }
 
 /*---------------------------------------------------*/
@@ -1415,7 +1414,6 @@ body.loaded .overlay_effect:after{
 }
 .shane_tm_video_button2 a:hover{
 	color: #000;
-	background-color: #fff;
 }
 
 /*---------------------------------------------------*/
