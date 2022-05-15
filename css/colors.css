@@ -22,6 +22,8 @@
 .shane_tm_all_wrap[data-color="blue"] .shane_tm_classic_hero .content h3{color: #fff;}
 .shane_tm_all_wrap[data-color="blue"] .shane_tm_classic_hero .content h3 span{-webkit-text-stroke: 1px #fff;}
 .shane_tm_all_wrap[data-color="blue"] .shane_tm_title span{background-color:rgba(65,105,225,.05);}
+.shane_tm_all_wrap[data-color="blue"] .shane_tm_button a{background-color:#f4a619;border-color: #f4a619;}
+.shane_tm_all_wrap[data-color="blue"] .shane_tm_button a:hover{background-color:transparent;}
 .shane_tm_all_wrap[data-color="blue"] .shane_tm_button2 a{background-color:#f4a619;border-color: #f4a619;}
 .shane_tm_all_wrap[data-color="blue"] .shane_tm_button2 a:hover{background-color:transparent;}
 .shane_tm_all_wrap[data-color="blue"] .shane_tm_portfolio .portfolio_filter ul li a.current{color: #f4a619;}

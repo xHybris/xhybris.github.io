@@ -440,6 +440,9 @@ h6 { font-size: 16px; }
 	padding: 20px 50px;
 	box-shadow: 0px 0px 30px rgba(0,0,0,.1);
 }
+.shane_tm_topbar .topbar_inner.opened a{
+	color:#000;
+}
 .shane_tm_topbar .topbar_inner .logo a{display: inline-block;}
 .shane_tm_topbar .topbar_inner .logo img{
 	max-width: 90px;
@@ -459,7 +462,7 @@ h6 { font-size: 16px; }
 .shane_tm_topbar .menu ul li:last-child{margin-right: 0px;}
 .shane_tm_topbar .menu ul li a{
 	text-decoration: none;
-	color: #000;
+	color:#fff;
 	font-weight: 500;
 	font-family: "Poppins";
 	
@@ -469,7 +472,7 @@ h6 { font-size: 16px; }
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.shane_tm_topbar .menu ul li.current a{color: #000;}
+.shane_tm_topbar .menu ul li.current a{color: rgb(0, 0, 0);}
 .shane_tm_topbar .menu ul li a:hover{color: #000;}
 
 
@@ -829,6 +832,29 @@ body.loaded .overlay_effect:after{
 	float: left;
 	margin-bottom: 40px;
 	padding-top: 27px;
+}
+.shane_tm_button{
+	width: 100%;
+	height: auto;
+	clear: both;
+	float: left;
+}
+.shane_tm_button a{
+	text-decoration: none;
+	color: #fff;
+	background-color: rgb(0, 0, 0);
+	padding: 13px 48px;
+	border: 2px solid #000;
+	font-family: "Poppins";
+	
+	-webkit-transition: all .3s ease;
+	   -moz-transition: all .3s ease;
+	    -ms-transition: all .3s ease;
+	     -o-transition: all .3s ease;
+	        transition: all .3s ease;
+}
+.shane_tm_button a:hover{
+	color: #fff;
 }
 .shane_tm_button2{
 	width: 100%;

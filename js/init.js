@@ -264,7 +264,7 @@ function shane_tm_nav_bg(){
 		var progress	 	= jQuery('.progressbar');
 		var WinOffset		= jQuery(window).scrollTop();
 
-		if(WinOffset >= 100){
+		if(WinOffset >= 70){
 			topbar.addClass('opened');
 			progress.addClass('animate');
 		}else{
