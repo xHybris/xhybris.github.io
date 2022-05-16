@@ -1793,7 +1793,7 @@ body.loaded .overlay_effect:after{
 	height: auto;
 	clear: both;
 	float: left;
-	padding: 220px 0px 170px 0px;
+	padding: 20px 0px 200px 0px;
 	position: relative;
 }
 .shane_tm_talk .talk_inner{
@@ -1838,7 +1838,7 @@ body.loaded .overlay_effect:after{
 }
 .shane_tm_talk .background{
 	position: absolute;
-	top: 0px;
+	top: -150px;
 	bottom: 0px;
 	left: 0px;
 	right: 0px;
